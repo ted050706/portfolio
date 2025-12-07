@@ -10,5 +10,5 @@
 ## 3. 六角切版班 專題
 ## 4. 區塊鏈職訓班 專題
 ## 5. AI 競賽相關
-   1. [科技大擂台 資料格式轉換與修正程式](https://github.com/ted050706/2019-AI_Challenge_Grand/tree/main/data-master)
-   2. 
+   1. [科技大擂台 Json與CSV資料格式轉換與清理](https://github.com/ted050706/2019-AI_Challenge_Grand/tree/main/data-master)
+   2. [AIGO解題競賽 上萬筆Json資料前處理與條件篩選](https://github.com/ted050706/2020-BATAW/tree/main)
