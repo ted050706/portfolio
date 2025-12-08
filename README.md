@@ -8,6 +8,8 @@
 ## 2. 六角Vibe Coding公益程式體驗營 專題
 
 ## 3. 六角切版班 專題
+   1. [鞋子電商網站 (RWD 作業專題)](https://github.com/ted050706/hs_25_hw_project/tree/main) \ [GitHub Page](https://ted050706.github.io/hs_25_hw_project/)
+   2. 
 ## 4. 區塊鏈職訓班 專題
 ## 5. AI 競賽相關
    1. [科技大擂台 Json與CSV資料格式轉換與清理](https://github.com/ted050706/2019-AI_Challenge_Grand/tree/main/data-master)
