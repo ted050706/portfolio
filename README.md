@@ -4,7 +4,7 @@
 
  (作品按時間由近到遠排序)
 ## 1. 巨匠Java職訓班 專題
-   - [延續切版班 Vite+Bootsrap5 專題，自學 String Boot+MySQL 實現前後端+資料庫串接](https://github.com/ted050706/hs_25_FullEnd/tree/main/FrontEnd) (更新中)
+   - [延續切版班 Vite+Bootsrap5 專題，自學 Spring Boot+MySQL 實現前後端+資料庫串接](https://github.com/ted050706/hs_25_FullEnd/tree/main/FrontEnd) (更新中)
 
 ## 2. 六角Vibe Coding公益程式體驗營 專題
 
